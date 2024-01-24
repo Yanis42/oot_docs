@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Fast64'
+project = 'OoTSpeedrunning'
 copyright = 'None (CC0-1.0)'
-author = 'Fast64 Community'
+author = 'OoT Community'
 
 
 # -- General configuration ---------------------------------------------------
