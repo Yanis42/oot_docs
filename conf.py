@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'OoTSpeedrunning'
+project = 'OoT Speedrunning'
 copyright = 'None (CC0-1.0)'
 author = 'OoT Community'
 
