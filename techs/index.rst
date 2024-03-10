@@ -8,3 +8,5 @@ Documentation specific to the different tricks and glitches you can perform on O
    :caption: Contents:
 
    isg/index
+   hover/index
+   hookshot-jump/index

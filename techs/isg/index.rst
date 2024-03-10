@@ -3,7 +3,9 @@ Infinite Sword Glitch
 
 The "Infinite Sword Glitch", or "ISG" for short, is a glitch where you do a crouch stab and have some kind of interaction with something else.
 
-This glitch is used to prevent Link from falling, it is useful to achieve "Hovering", a glitch that allows one to be stuck in the air.
+This glitch is used to prevent Link from falling, it is useful to achieve `Hovering`_, a glitch that allows one to be stuck in the air.
+
+.. _Hovering: ../hover/index.html
 
 How to perform
 -----------------
@@ -17,6 +19,6 @@ This is the only known method to ISG on Ocarina of Time 3D.
 History
 ----------
 
-This glitch was found on June 23rd, 2006.
+This glitch was found on June 23rd 2006 by TheHeroMX.
 
 https://archive.org/details/oot-isg-discovery-video

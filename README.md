@@ -14,7 +14,7 @@ The documentation source is written in reStructuredText, a simple and well-defin
 - https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html
 - https://docutils.sourceforge.io/rst.html
 
-If you're adding a new glitch, please try to write the discovery date at the top of the main page of it.
+If you're adding a new glitch, please provide the history of it. See the [ISG](techs/isg/index.rst) page to get a template.
 You can find the discovery list [here](https://docs.google.com/document/d/1KymmXOp-b_PA4ErWX70VRV5TcpbC5Nh6espdCOlwtd0/edit).
 
 ## Building locally
